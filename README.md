@@ -468,7 +468,7 @@ This project demonstrates a complete end-to-end Azure Data Engineering workflow 
 
 ![Admin Dashboard](https://github.com/NivedhReddy2048/Enterprise-Sales-Analytics_DataEngineering/blob/main/Images/AzureDatabricks/db_2.png?raw=true)
 
-![Admin Dashboard]()
+![Admin Dashboard](https://github.com/NivedhReddy2048/Enterprise-Sales-Analytics_DataEngineering/blob/main/Images/AzureDatabricks/db_3.png?raw=true)
 
 ---
 
