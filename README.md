@@ -85,7 +85,9 @@ This project addresses that problem by building an end-to-end analytical pipelin
                                 ▼
                      🎯 Business Decision Making
 ```
-![Architecture]()
+
+![Architecture](https://github.com/NivedhReddy2048/Enterprise-Sales-Analytics_DataEngineering/blob/main/Images/Architecture/Archi.png?raw=true)
+
 ---
 
 ## 🛠️ Technology Stack
