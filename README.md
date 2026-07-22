@@ -472,6 +472,8 @@ This project demonstrates a complete end-to-end Azure Data Engineering workflow 
 
 ![Admin Dashboard](https://github.com/NivedhReddy2048/Enterprise-Sales-Analytics_DataEngineering/blob/main/Images/AzureResources/Screenshot%202026-07-22%20115627.png?raw=true)
 
+![Admin Dashboard](https://github.com/NivedhReddy2048/Enterprise-Sales-Analytics_DataEngineering/blob/main/Images/powerbi/pow.png?raw=true)
+
 ---
 
 ## 👨‍💻 Author
