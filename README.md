@@ -464,7 +464,7 @@ This project demonstrates a complete end-to-end Azure Data Engineering workflow 
 
 ## Images
 
-![Admin Dashboard]()
+![Data factory](https://github.com/NivedhReddy2048/Enterprise-Sales-Analytics_DataEngineering/blob/main/Images/AzureDataFactory/Datafactory_Main.png?raw=true)
 
 ![Admin Dashboard]()
 
