@@ -1,0 +1,501 @@
+EmployeeID,EmployeeName,Department,total_orders,total_revenue
+276,Qarin Majumdar,Marketing,390,3.001906112E7
+444,Sanaya Merchant,Sales,391,2.852100728E7
+234,Lajita Srinivas,Marketing,384,2.806107614E7
+299,Isha Prabhakar,HR,375,2.717237891E7
+381,Anmol Vaidya,HR,378,2.883123038E7
+278,Anya Char,IT,393,3.03229891E7
+120,Hiral Ahuja,Marketing,399,2.982175173E7
+385,Aadhya Biswas,Marketing,398,2.76377914E7
+398,Siddharth Brar,Sales,403,2.992989456E7
+82,Raghav Chopra,IT,393,2.951850304E7
+35,Tanish Mishra,HR,390,2.95649878E7
+254,Naksh Chandra,HR,359,2.788973373E7
+226,Ayaan Kadakia,Finance,371,2.939205221E7
+153,Forum Bava,Operations,359,2.538351605E7
+14,Yatin Ahuja,HR,384,2.850410725E7
+456,Aadhya Ratta,Sales,394,3.089204077E7
+15,Warinder Kumer,IT,418,3.180736974E7
+183,Abha Naidu,Marketing,363,2.76888272E7
+393,Pranit Morar,Marketing,410,3.134377529E7
+140,Sara Banik,IT,417,3.002145631E7
+175,Varenya Bobal,Customer Support,377,2.761232172E7
+257,Yamini Tara,Customer Support,395,2.809545459E7
+223,Amara Bumb,Finance,408,3.030864855E7
+143,Karan Radhakrishnan,Customer Support,400,3.02292067E7
+271,Gagan Ganguly,Finance,387,3.027605773E7
+130,Chanchal Mahajan,Customer Support,374,2.823011683E7
+203,Damini Jha,IT,382,2.898267829E7
+172,Yashvi Parmar,Operations,425,3.180626305E7
+367,Lekha Bhatnagar,Marketing,410,3.244402108E7
+88,Brinda Sen,Finance,401,3.066465962E7
+1,Ijaya Sen,Marketing,414,3.159338632E7
+262,Udyati Borde,IT,371,2.655309288E7
+168,Rohan Saini,Finance,386,2.872266167E7
+173,Ayushman Srivastava,IT,411,3.123296436E7
+66,Gunbir Sethi,HR,387,3.015499636E7
+229,Falan Narasimhan,Operations,405,3.029954749E7
+57,Christopher Seshadri,Marketing,365,2.605283695E7
+418,Anamika Barad,Marketing,396,3.018832883E7
+73,Rushil Upadhyay,Sales,395,3.023017898E7
+239,Devansh Comar,IT,428,3.223533104E7
+416,Leena Mishra,Customer Support,367,2.64032707E7
+43,Pranit Hans,Sales,405,3.0788377E7
+124,Jeremiah Chander,Operations,425,3.195684968E7
+403,Damyanti Patla,Marketing,394,2.986480645E7
+60,Gayathri Misra,Sales,397,3.064270143E7
+400,Zashil Nigam,HR,388,2.714388851E7
+315,Balveer Raj,Finance,459,3.387177392E7
+37,Jhalak Rai,Sales,416,3.199390739E7
+211,Udant Bhatti,Customer Support,378,3.000331434E7
+206,Vedika Sehgal,Sales,415,3.085370814E7
+40,Darsh Doctor,Finance,391,3.018093712E7
+464,Rayaan Chahal,Sales,400,3.044424737E7
+112,Ishani Parikh,Sales,397,3.072016415E7
+285,Krisha Chand,Finance,371,2.738400097E7
+399,Reyansh Gopal,Marketing,394,2.964455741E7
+358,Bhavika Ray,Customer Support,376,2.851581818E7
+483,Waida Sinha,Sales,417,3.195752294E7
+375,Ekalinga Chana,Operations,399,2.981859914E7
+204,Varsha Kapadia,Finance,391,3.012844614E7
+312,Utkarsh Bhardwaj,Marketing,406,3.091220431E7
+453,Meghana Venkataraman,HR,467,3.4938309E7
+244,Balveer Jaggi,Sales,395,2.897359343E7
+475,Sara Madan,Sales,387,2.946561239E7
+423,Ekansh Dora,IT,393,2.995093564E7
+126,Ridhi Goswami,Sales,435,3.346795505E7
+176,Anya Balay,Finance,418,3.237740117E7
+417,Vamakshi Mangat,Finance,422,3.113309469E7
+163,Divya Pandit,Finance,391,2.957827263E7
+59,Yashodhara Tella,Customer Support,394,2.858636687E7
+391,Ishani Atwal,Sales,427,3.29320462E7
+237,Harita Pal,Finance,419,3.168640982E7
+387,Janaki More,Customer Support,376,2.805599382E7
+155,Chandresh Bava,Customer Support,370,2.782304032E7
+166,Lajita Banerjee,HR,396,2.969221612E7
+289,Ria Bali,Sales,369,2.86872482E7
+325,Kamala Kumar,Finance,385,2.953529197E7
+409,Ucchal Shetty,Sales,395,2.997147223E7
+41,Vritti Loyal,Operations,380,3.12165923E7
+429,Rachit Mammen,Marketing,407,3.139399325E7
+179,Fitan Krishnamurthy,HR,398,3.050871034E7
+288,Yug Behl,HR,368,2.881809975E7
+489,Harshil Grover,Operations,372,2.766886674E7
+455,Sai Sinha,Operations,435,3.445078509E7
+448,Jeevika Gulati,Finance,423,3.066627178E7
+248,Brinda Mani,HR,398,3.011199902E7
+357,Maya Tiwari,Operations,414,3.141905639E7
+359,Vansha Sidhu,Operations,425,3.090578926E7
+157,Zashil Solanki,HR,398,2.885538549E7
+310,Krishna Mandal,IT,398,3.059395799E7
+280,Gopal Johal,Marketing,429,3.357501366E7
+74,Lucky Morar,Customer Support,400,3.007024754E7
+165,Krisha Som,IT,423,3.219956599E7
+484,Qasim Borde,Marketing,448,3.242094326E7
+85,Anya Koshy,HR,397,2.846161962E7
+479,Yatin Tank,Operations,404,3.163330336E7
+118,Yahvi Sura,HR,391,2.962530858E7
+16,Nidhi Bedi,HR,405,3.096012968E7
+452,Nathan Mukherjee,Sales,404,2.960231665E7
+123,Chakradhar Sengupta,IT,389,2.994734704E7
+105,Madhavi Sha,Marketing,399,3.023790828E7
+287,Ojasvi Walia,Operations,431,3.266788827E7
+49,Jairaj Choudhury,Operations,378,2.927109546E7
+412,Hitesh Kota,Operations,440,3.324071888E7
+320,Amol Vasa,Sales,394,2.956972094E7
+460,Edhitha Raju,Finance,392,3.010832185E7
+87,Kevin Maharaj,Sales,382,2.818358243E7
+333,Veer Nayar,Customer Support,388,2.870280217E7
+371,Anirudh Bajwa,Sales,355,2.720180441E7
+193,Falan Narayan,Operations,417,3.04947432E7
+102,Udant Randhawa,HR,418,3.120186278E7
+338,Isaac Mann,IT,389,2.849284183E7
+119,Nihal Nigam,Customer Support,424,3.043301274E7
+225,Zarna Soman,IT,404,2.984747823E7
+342,David Sachar,IT,403,3.029218849E7
+90,Oeshi Rajan,HR,382,2.922602109E7
+301,Hemal Johal,Finance,431,3.295554148E7
+478,Hemang Patil,Customer Support,407,2.991550725E7
+78,Dev Walla,HR,416,3.158190278E7
+425,Vidhi Wason,HR,406,3.127357097E7
+500,Geetika Deshmukh,Customer Support,395,3.088806829E7
+18,Nathaniel Vora,Customer Support,433,3.230541393E7
+252,Max Dubey,Operations,383,2.768611889E7
+300,Pranav Radhakrishnan,IT,415,3.250574873E7
+499,Ganga Dhar,Sales,434,3.175574128E7
+182,Yatin Swaminathan,Marketing,376,2.888125734E7
+377,Chameli Mahal,Sales,419,3.135502493E7
+454,Zehaan Om,Customer Support,372,2.835831658E7
+26,Laban Ratti,HR,433,3.306409842E7
+496,Ijaya Parekh,Customer Support,384,2.905235356E7
+421,Elijah Wason,HR,384,2.877419251E7
+47,Varsha Deshmukh,Marketing,393,2.953706434E7
+427,Omya Kapur,Marketing,359,2.760332763E7
+476,Jason Solanki,IT,392,2.903517834E7
+323,Oni Kade,Marketing,407,3.252275564E7
+356,Yashoda Rao,Sales,374,2.624659738E7
+313,Robert Kala,HR,415,3.198478638E7
+72,Bhavna Sidhu,IT,403,3.028924393E7
+220,Kavya Prashad,Customer Support,378,2.784936243E7
+174,Amol Dani,IT,428,3.270960682E7
+498,Kala Singhal,Customer Support,450,3.421813087E7
+10,Vincent Chaudhari,HR,416,3.285016194E7
+343,Bishakha Shenoy,Sales,422,3.228338833E7
+466,Warjas Vasa,IT,376,2.726253361E7
+336,Naksh Chacko,Marketing,379,2.91895291E7
+127,Jackson Guha,Customer Support,426,3.174342071E7
+344,Christopher Vaidya,Operations,409,2.978613512E7
+3,Alexander Bedi,Sales,412,3.031266526E7
+113,Harini Bose,Sales,378,2.788849383E7
+485,Fariq Kar,IT,379,2.905898616E7
+75,Laksh Madan,Customer Support,392,3.145259751E7
+134,Harsh Yohannan,Marketing,360,2.716407631E7
+435,Aayush Goel,Customer Support,378,2.786168536E7
+392,Faqid Varkey,Sales,390,2.817046178E7
+487,Idika Apte,Marketing,397,2.935898126E7
+17,Lohit Verma,Customer Support,402,3.025060901E7
+139,Kalpit Mani,Finance,413,2.95050766E7
+98,Nitara Date,Customer Support,417,3.127638661E7
+298,Chaitaly Biswas,Operations,408,3.076917334E7
+104,Ryan Nadig,Customer Support,387,2.981647257E7
+207,Wyatt Muni,Marketing,402,2.961682924E7
+284,Amrita Sangha,HR,407,2.929389024E7
+109,Faraj Pillay,IT,405,3.184535371E7
+457,Ati Bains,Marketing,422,3.318101108E7
+311,Quincy Warrior,Marketing,391,2.915015366E7
+275,Jasmit Dutta,Customer Support,402,3.062516225E7
+205,Frado Saran,Operations,397,3.033146359E7
+198,Quincy Andra,HR,341,2.623016044E7
+195,Vrinda Sabharwal,Finance,426,3.260687429E7
+92,Nikita Bali,Sales,425,3.251138333E7
+177,Arjun Randhawa,Sales,382,2.849957434E7
+51,Kevin Soni,Operations,381,2.906493009E7
+348,Jeremiah Naidu,Marketing,371,2.826644317E7
+31,Shivani Sibal,IT,415,3.043889108E7
+170,Mitesh Kibe,Customer Support,383,2.827754402E7
+471,Oviya Srinivas,Finance,421,3.196095232E7
+79,Janaki Sinha,Operations,378,2.907634059E7
+133,Yoshita Desai,Sales,389,2.842161572E7
+266,Patrick Narain,Marketing,386,2.940406691E7
+210,Ganga Dhar,Operations,451,3.445829486E7
+54,Omya Verma,Sales,403,3.060623189E7
+420,Zaid Muni,Marketing,403,3.004445291E7
+148,Anmol Ganesan,Marketing,411,3.056555792E7
+396,Avi Goyal,HR,384,2.928305887E7
+106,Adweta Pal,Customer Support,413,3.113401642E7
+146,Anay Loyal,Operations,385,2.852195974E7
+131,Anita Manda,Marketing,390,2.898286621E7
+7,Yashoda Virk,Finance,403,2.837692535E7
+433,Jasmit Bhagat,Operations,385,2.867153633E7
+470,Damyanti Samra,IT,446,3.524391562E7
+382,Dakshesh Sangha,Finance,411,3.081518549E7
+360,Prisha Mital,Customer Support,426,3.10221292E7
+376,Jagvi Naidu,Sales,385,2.845103705E7
+117,Hritik Bhardwaj,Finance,403,2.872553434E7
+160,Gaurang Kala,Customer Support,411,3.096727688E7
+292,Krish Brar,Marketing,385,2.976248882E7
+451,Alka Chander,Finance,379,2.763256176E7
+101,Frado Thaker,IT,388,2.919633142E7
+11,Rudra Lal,Customer Support,422,3.129019527E7
+219,Rayaan Gokhale,HR,362,2.796594643E7
+462,Bhavya Dada,Sales,407,2.934802848E7
+436,George Koshy,Sales,403,3.107264147E7
+23,Anthony Iyer,Customer Support,393,2.905284651E7
+188,Chaitanya Kapur,HR,423,3.101959159E7
+428,Laksh Sankaran,IT,417,3.249469643E7
+181,Eesha Seth,Customer Support,402,3.007598459E7
+490,Pahal Bandi,HR,413,3.154232884E7
+110,Jeremiah Dhawan,IT,400,3.003760535E7
+4,Mitesh Chauhan,IT,432,3.299801441E7
+97,Azaan Arya,Operations,430,3.247073447E7
+21,Mitali Borde,IT,361,2.94708065E7
+415,Deepa Solanki,HR,374,2.898649046E7
+186,Simon Chakraborty,IT,388,2.965315886E7
+231,Tanish Khurana,HR,400,3.105561113E7
+19,Odika Choudhary,Sales,356,2.648809493E7
+22,Nisha Bakshi,Marketing,383,2.827689317E7
+372,Aadhya Saini,Finance,425,3.201799911E7
+354,Oni Banik,Finance,412,2.925375323E7
+89,Bhanumati Mane,Marketing,449,3.35229632E7
+324,Chanchal Nagarajan,Marketing,388,2.866134871E7
+468,Samesh Ramakrishnan,Finance,394,2.945886265E7
+242,Oviya Tella,Operations,432,3.306027478E7
+142,Gaurangi Balay,IT,422,3.071298746E7
+263,Brinda Bath,Sales,400,3.09768288E7
+197,Aryan Chaudhuri,IT,410,3.07796622E7
+309,Chavvi Sharaf,IT,378,2.874220611E7
+361,Vaishnavi Pandit,Operations,384,2.695202755E7
+228,Gagan Bakshi,Customer Support,418,3.138832546E7
+114,Bina Deo,Sales,382,2.928789421E7
+463,Ekalinga Parikh,IT,394,2.973743456E7
+492,Xalak Lala,Sales,376,2.900785496E7
+469,Anika Dhar,Marketing,425,3.201650563E7
+434,Ayaan Batta,Operations,387,2.923666947E7
+318,Gautam Sharaf,Marketing,404,3.023160091E7
+268,Ekansh Deshpande,Finance,391,2.913682003E7
+279,Ryan Chaudhary,Sales,405,3.029048525E7
+50,Tejas Barman,HR,411,3.073750445E7
+303,Ishwar Kothari,Sales,408,3.034361821E7
+125,Ridhi Mangat,Finance,404,3.159951274E7
+227,Janani Banik,HR,410,3.259700921E7
+267,Azaan Bali,Finance,371,2.698236923E7
+200,Advika Ravi,Operations,400,3.108469082E7
+305,Daniel Badami,Customer Support,409,3.028897039E7
+77,Jai Kari,IT,386,2.863443348E7
+449,Ekaja Zachariah,Finance,443,3.242901391E7
+407,Henry Sridhar,HR,392,3.062424495E7
+402,Liam Narula,Marketing,369,2.927996767E7
+337,Radhika Nagar,Marketing,418,3.00757149E7
+474,Tanveer Chauhan,Sales,397,2.892389984E7
+70,Warda Kapadia,Marketing,376,2.876149895E7
+27,Krisha Khurana,Finance,361,2.773318853E7
+383,Yatin Dhar,HR,431,3.017690235E7
+199,Deepa Nath,Marketing,388,2.967988692E7
+58,Aadhya Chandra,Customer Support,388,2.812266248E7
+321,Turvi More,HR,402,3.189644467E7
+83,Mitesh Tata,Sales,418,3.234301173E7
+196,Kevin Grover,IT,393,3.028454912E7
+497,Nisha Dhar,Sales,442,3.201535358E7
+217,Yashica Misra,HR,391,2.949405956E7
+340,Faris Chandran,HR,394,3.055997848E7
+439,Viraj Keer,HR,411,3.068607809E7
+24,Bishakha Kale,Finance,419,3.238707263E7
+137,Avi Narula,HR,404,3.077078332E7
+241,Girik Mall,Sales,399,2.860381924E7
+28,Qadim Singh,Marketing,383,2.950395603E7
+144,Eshana Chana,Customer Support,380,2.866727271E7
+158,Indali Chahal,Sales,398,2.997699792E7
+189,Kashish Batra,Marketing,430,3.253142598E7
+341,Krishna Ravi,IT,379,2.950523021E7
+38,Nandini Kulkarni,Customer Support,388,3.021924383E7
+419,Anirudh Choudhary,Finance,390,2.907665801E7
+294,Saanvi Randhawa,IT,426,3.265333753E7
+440,Yatan Shetty,Marketing,425,3.155915875E7
+424,Frederick Palan,HR,400,2.970098533E7
+362,Jasmit Dua,HR,410,3.130424134E7
+99,Varenya Memon,HR,381,2.858453302E7
+238,Mitali Mallick,Marketing,412,3.173498532E7
+29,Benjamin Ray,Operations,404,3.176602002E7
+394,Dalbir Sibal,Customer Support,398,2.983678731E7
+349,Ayaan Mutti,Finance,389,2.953406831E7
+316,Jeet Sankar,IT,386,3.070226845E7
+108,Balhaar Dave,Customer Support,394,3.028079279E7
+216,Isaiah Amble,Finance,334,2.551030231E7
+136,Omisha Deshpande,Sales,379,2.773826909E7
+84,Zayyan Chopra,Finance,408,3.032316451E7
+135,Lakshit Tata,HR,400,3.059912801E7
+187,Pooja Mann,HR,368,2.783406266E7
+329,Harini Basu,Finance,439,3.392707135E7
+304,Darika Dayal,Marketing,410,2.852192608E7
+401,Darsh Pal,Operations,395,2.977347602E7
+69,Nirja Viswanathan,Finance,420,3.275999004E7
+493,Samarth Chana,Operations,399,2.96683975E7
+438,Mekhala Sinha,Finance,354,2.654032188E7
+442,Pratyush Gade,HR,364,2.839424496E7
+378,Jagat Kalita,Marketing,404,3.057673686E7
+380,Tarak Kulkarni,Sales,407,2.978226847E7
+441,Panini Sarkar,Sales,390,2.917821739E7
+459,Meghana Batra,Sales,421,3.061609474E7
+224,Nidra Kaur,Sales,377,2.740104259E7
+432,Frado Sachar,Operations,394,3.021230884E7
+159,Ayaan Dutta,Customer Support,404,3.066569084E7
+129,Ranbir Wali,Operations,446,3.145423799E7
+65,Daksh Dayal,Marketing,423,3.07827414E7
+450,Xiti Bajwa,Operations,384,2.919793782E7
+345,Umang Korpal,Operations,371,2.83987452E7
+138,Girik Bhalla,Operations,362,2.783682743E7
+447,Farhan Sura,HR,393,2.97107543E7
+480,Odika Parmer,IT,391,2.947543926E7
+222,Indrajit Amble,Marketing,393,2.987529053E7
+161,Laksh Nagi,Finance,399,2.859828623E7
+255,Bachittar Madan,Marketing,401,2.912968396E7
+147,Jai Wali,Marketing,376,2.820009262E7
+269,Neel Rastogi,Finance,417,3.209558417E7
+190,Baghyawati Contractor,IT,401,2.826303962E7
+314,Ekalinga Kaul,Marketing,398,3.044698478E7
+411,Ishita Tata,Customer Support,411,3.04273667E7
+67,Faraj Bawa,Sales,418,3.270528273E7
+32,Warhi Sur,Operations,421,3.298577615E7
+111,Veda Karnik,Finance,376,2.777954881E7
+167,Amaira Thaker,Marketing,401,3.008563183E7
+250,Ranbir Bhagat,IT,415,3.059557479E7
+405,Daksh Bal,IT,440,3.143577113E7
+295,Abha Batra,Marketing,398,3.101734266E7
+458,Robert Prabhu,IT,398,3.083829959E7
+306,Gopal Nagi,Sales,435,3.259746403E7
+408,Pranav Misra,Finance,416,3.135339304E7
+461,Keya Mani,Operations,397,2.942464043E7
+13,Daksha Lanka,Operations,399,2.933357202E7
+384,Lekha Keer,HR,393,2.852009589E7
+61,Indira Saran,Finance,406,2.89284142E7
+495,Mitesh Ravel,Sales,381,2.951711807E7
+259,Warinder Date,Marketing,415,3.083922403E7
+80,Henry Chopra,HR,401,2.984551416E7
+230,Darsh Lall,IT,417,3.09362774E7
+431,Orinder Varghese,IT,384,2.946368512E7
+256,Pranit Balakrishnan,Customer Support,402,3.02909606E7
+116,Ira Dhar,IT,374,2.918200914E7
+56,Manthan Mammen,Sales,397,2.934831917E7
+93,Zaitra Parikh,Operations,370,2.856254323E7
+491,Udant Dugar,Customer Support,409,3.203706151E7
+334,Ishita Garg,Sales,398,3.032479752E7
+214,Jeremiah Chaudhry,IT,367,2.744722345E7
+95,Oliver Chokshi,Finance,439,3.308702191E7
+353,Lekha Dhaliwal,Finance,415,3.083415084E7
+261,Dalbir Sant,Customer Support,395,3.108926572E7
+286,Niharika Gara,IT,410,2.865964814E7
+115,Lopa Grewal,Marketing,402,3.027453481E7
+145,Amaira Rajagopal,HR,380,2.949453114E7
+346,Fiyaz Prabhakar,Finance,416,3.170938461E7
+246,Bhavani Hora,IT,427,3.272548003E7
+335,Zinal Srinivasan,Operations,419,3.133164235E7
+351,Janani Krishnan,HR,410,2.960138196E7
+326,Nandini Bhardwaj,IT,365,2.895736553E7
+317,Fitan Biswas,Finance,388,2.81056434E7
+86,Rohan Nadig,Sales,418,3.254193618E7
+132,Ranbir Kannan,Operations,390,3.00991121E7
+365,Chavvi Lala,HR,403,2.94491957E7
+46,Daniel Sachar,Operations,419,3.177671908E7
+121,Gopal Pai,Finance,399,2.797834434E7
+277,Eesha Soman,Sales,396,2.995940077E7
+302,Devansh Kar,Marketing,418,3.30268536E7
+488,Aryan Salvi,Customer Support,398,2.834188154E7
+327,Nachiket Prashad,Sales,414,3.202190979E7
+184,Frado Sinha,Operations,393,2.834868666E7
+422,Vihaan Deo,Marketing,390,2.823254412E7
+414,Tanay Deshpande,Marketing,381,2.838768301E7
+154,Ekavir Bala,Customer Support,398,3.145969052E7
+364,Yatin Malhotra,HR,400,3.0600884E7
+33,Faraj Jain,Customer Support,445,3.389529367E7
+281,Hemang Suresh,Marketing,396,3.03005835E7
+34,Yashawini Vyas,IT,434,3.162235796E7
+156,Harrison Joshi,Customer Support,407,3.22730053E7
+208,Xavier Wason,Finance,395,2.890421183E7
+240,Vihaan Savant,HR,373,2.716892469E7
+233,Janya Anand,Finance,360,2.666200505E7
+128,Aradhana Munshi,Marketing,387,2.767009035E7
+185,Chasmum Madan,IT,414,3.119386214E7
+477,Ayushman Narula,Marketing,429,3.320513654E7
+397,Mahika Gaba,Operations,403,2.980286727E7
+42,Geetika Sawhney,HR,424,3.04379438E7
+39,Qasim Lall,Operations,380,2.776470788E7
+482,Raksha Dasgupta,Marketing,415,3.161133049E7
+270,Samaksh Gera,HR,406,3.08589773E7
+272,Udant Dube,IT,382,2.934899442E7
+180,Tanveer Dhaliwal,IT,387,2.841364209E7
+296,Baljiwan Ganguly,HR,405,3.066377971E7
+386,Frederick Khanna,IT,404,3.047860962E7
+410,Lipika Varty,Finance,419,3.183948484E7
+390,Chaaya Thakur,Marketing,452,3.472464477E7
+328,Ekavir Shroff,Marketing,435,3.210927555E7
+330,Michael Chacko,Operations,396,2.989430299E7
+331,Aarini Pandey,IT,374,2.724011358E7
+426,Samarth Mani,Marketing,423,3.031759365E7
+347,Vyanjana Deep,Finance,436,3.222067132E7
+169,Quincy Bhatti,Sales,403,3.048606799E7
+322,Mitali Shere,HR,429,3.024968096E7
+221,Atharv Sant,Finance,377,2.839526246E7
+481,Bhavani Ratti,IT,427,3.157649201E7
+366,Ekbal Madan,Customer Support,386,2.987221106E7
+352,Anya Bhavsar,HR,403,3.043402988E7
+48,Liam Suri,Finance,381,2.931977494E7
+465,Dalaja Narang,Operations,374,2.789109692E7
+12,Kavya Singh,Customer Support,383,2.935425467E7
+437,Zaid Dey,Operations,400,2.937256082E7
+253,Nicholas Sharaf,HR,401,2.93672431E7
+62,Advik Saxena,IT,400,2.948242557E7
+473,Amruta Sur,Finance,392,2.887565594E7
+232,Ishita Date,IT,400,2.987339767E7
+215,Ranbir Murthy,Marketing,384,3.029758344E7
+151,Lucky Suri,IT,379,2.767000964E7
+94,Chavvi Oak,Finance,386,2.963665441E7
+5,Varenya Konda,Sales,380,2.804701624E7
+467,Madhavi Konda,Sales,368,2.841425136E7
+162,Anya Balan,Operations,416,3.191446386E7
+430,Chaitaly Thaman,Marketing,412,3.075710859E7
+251,Ekani Bhat,Operations,411,3.044146742E7
+369,Ekansh Magar,Sales,384,2.94744578E7
+260,Hemani Sridhar,Customer Support,407,3.104117786E7
+52,Gunbir Dasgupta,Operations,418,3.190835218E7
+446,Hardik Sarma,Operations,405,2.867950252E7
+150,Isaac Lala,HR,431,3.30765977E7
+265,Alexander Comar,Sales,391,2.841914157E7
+192,Abhiram Rajagopal,Operations,431,3.260257483E7
+81,Ganga Pai,Marketing,393,2.847593467E7
+235,Forum Contractor,Marketing,388,2.933599347E7
+245,Reva Dhillon,Finance,414,3.115298057E7
+368,Bakhshi Dasgupta,Customer Support,417,3.110679626E7
+202,Jack Bajwa,Sales,391,2.983109595E7
+273,Ishwar Sura,Finance,427,3.279500254E7
+307,Oni Karnik,Marketing,372,2.795886111E7
+395,Charan Manda,Marketing,389,2.943438648E7
+247,Yauvani Kata,HR,430,3.345325684E7
+290,Yoshita Sunder,Sales,412,3.136583037E7
+388,Pallavi Warrior,Sales,412,2.967602004E7
+91,Gayathri Mistry,Marketing,435,3.318782E7
+308,Ayushman Wason,HR,393,3.102864347E7
+209,Lila Peri,HR,417,2.958952337E7
+282,Baghyawati Singhal,Sales,396,3.132981551E7
+68,Vasudha Hayre,Operations,418,3.062935027E7
+413,Bimala Minhas,Sales,405,3.173619859E7
+55,Vidhi Tak,Customer Support,414,3.150475878E7
+319,Teerth Tak,Finance,409,3.14245883E7
+339,Matthew Nadig,Customer Support,405,3.040399757E7
+404,Zarna Ganguly,HR,404,3.107428752E7
+293,Ridhi Maharaj,Operations,389,2.889208091E7
+486,Elijah Hans,Sales,365,2.719790692E7
+443,Hamsini Pal,Sales,391,2.779051083E7
+30,Harinakshi Goda,Finance,419,3.322546356E7
+25,Tamanna Bahri,IT,405,3.124010545E7
+274,Neha Patla,Finance,406,2.894510263E7
+243,Dipta Butala,Marketing,416,3.137796531E7
+350,Tanay Shroff,Marketing,446,3.351850028E7
+218,Inaya Garde,Finance,416,3.037287802E7
+379,Sai Bhasin,IT,369,2.875192014E7
+406,Max Nori,HR,377,2.755514163E7
+213,Pratyush Naidu,IT,392,2.820105289E7
+64,Ishwar Yohannan,Customer Support,397,3.171661728E7
+141,Chakrika Bora,Sales,424,3.209570555E7
+152,Sara Trivedi,Finance,405,3.100087228E7
+374,Upasna Ben,Marketing,360,2.800009894E7
+178,Zinal Rajagopal,Operations,377,2.826267919E7
+6,Panini Gill,Operations,381,2.874208469E7
+9,Omisha Bhattacharyya,IT,366,2.733452543E7
+103,Ikbal Dayal,Sales,418,3.133817576E7
+36,Dalaja Pandey,IT,392,3.046042528E7
+171,Samarth Anne,Operations,381,2.824690161E7
+283,Anthony Dora,HR,434,3.214770958E7
+445,Shaurya Wagle,Customer Support,380,2.62040351E7
+370,Jalsa Bhatnagar,Sales,400,2.962783596E7
+212,Pooja Ravel,Marketing,420,3.160500571E7
+363,Upasna Lad,Customer Support,410,3.024506187E7
+8,Hemani Narula,IT,402,3.036914113E7
+494,Dominic Bains,HR,397,2.951432128E7
+472,Gauri Sunder,IT,415,3.159727304E7
+122,Harita Mistry,HR,414,3.166072054E7
+355,Dalaja Chhabra,Sales,440,3.263159583E7
+63,Laksh Sood,Customer Support,393,2.967977955E7
+249,Upkaar Singhal,Marketing,405,3.077758517E7
+191,Anita Pillay,Operations,373,2.76155228E7
+96,Nachiket Puri,Finance,419,3.079437729E7
+389,Darika Kannan,Customer Support,397,2.916109699E7
+45,Sneha Vasa,Operations,391,2.951612727E7
+264,Wazir Tiwari,IT,385,2.968825387E7
+2,Hiral Badami,Sales,379,2.757333042E7
+71,Maya Sundaram,Finance,412,2.976194939E7
+164,Brinda Sundaram,Operations,377,2.902857566E7
+332,Onveer Vig,Sales,368,2.735616276E7
+373,Omkaar Magar,Operations,395,2.941653289E7
+107,Madhavi Wali,Finance,423,3.20531915E7
+258,Meghana Bhardwaj,Customer Support,382,2.671260297E7
+20,Lucky Deep,Sales,409,3.145246174E7
+100,Chavvi Varghese,HR,401,3.045631905E7
+194,Qarin Mutti,Sales,392,2.888591688E7
+44,Frederick Nazareth,Sales,397,2.901577499E7
+297,David Lalla,Marketing,392,2.946057136E7
+201,Dalbir Chand,Sales,405,3.02287901E7
+76,Henry Nagarajan,Marketing,406,3.231494307E7
+291,Omisha Mammen,Sales,407,2.992620625E7
+236,Elijah Garg,Operations,405,3.003590938E7
+53,Falguni Dua,HR,386,2.934704997E7
+149,Pooja Sehgal,Operations,395,2.990195959E7
